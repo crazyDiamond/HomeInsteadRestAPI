@@ -1,0 +1,8 @@
+Flask==0.10.1
+lettuce==0.2.21
+six==1.10.0
+requests>=2.8.0
+pep8==1.6.2
+pylint==1.4.4
+
+
